@@ -1,3 +1,6 @@
+**Paper**
+- Mahmudur Rahman, Mohammad Al Hasan. Sampling triples from restricted networks using MCMC strategy. CIKM ’14
+
 **ExampleNetworks**
 - Some Toy networks
 
